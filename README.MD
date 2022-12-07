@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/45508320/206161635-175891db-4edd-4b68-81a4-979c177bba41.png)
+
+
 # Color your Ender V2 3D Printer Screen!
 This is a simple and rather untested project for replacing the icons with those of different colors for the Ender 3D printer screen. This supports both DWIN and DACAI type screens.
 # How To

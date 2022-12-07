@@ -2,7 +2,8 @@
 
 
 # Color your Ender V2 3D Printer Screen!
-This is a simple and rather untested project for replacing the icons with those of different colors for the Ender 3D printer screen. This supports both DWIN and DACAI type screens.
+This is a simple and rather untested project for replacing the icons with those of different colors for the Ender 3D printer screen. This supports both DWIN and DACAI type screens.  
+In theory this should work with stock Marlin firmwares, however do yourself a favor and get [Mrisco's Professional firmware](https://github.com/mriscoc/Ender3V2S1) instead, it's everything you could ever want. 
 # How To
 Follows the same flashing process for any other screen firmware but we'll go through the basics.  
 1. Get an SD card (under 32gb?)

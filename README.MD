@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/45508320/206161635-175891db-4edd-4b68-81a4-979c177bba41.png)
+![image](https://user-images.githubusercontent.com/45508320/206162147-8836a360-6b2e-4eaa-9046-a395745a7eb9.png)
 
 
 # Color your Ender V2 3D Printer Screen!
